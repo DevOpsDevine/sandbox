@@ -1,3 +1,3 @@
 sandbox
 =======
-practive ground for playing with git's fancy fancy tools
+practice ground for playing with git's fancy fancy tools
